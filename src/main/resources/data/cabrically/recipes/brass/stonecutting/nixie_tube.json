@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cabrically:brass_machine"
+  },
+  "result": "create:nixie_tube",
+  "count": 2
+}

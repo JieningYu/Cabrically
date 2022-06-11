@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:andesite_machine"
+        },
+        {
+            "item": "create:brass_hand"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:deployer"
+        }
+    ]
+}

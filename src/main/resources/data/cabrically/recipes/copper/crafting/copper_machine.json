@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:copper_casing"
+        },
+        {
+            "item": "cabrically:copper_mechanism"
+        },
+        {
+            "item": "cabrically:copper_mechanism"
+        },
+        {
+            "item": "cabrically:copper_mechanism"
+        }
+    ],
+    "result": {
+        "item": "cabrically:copper_machine"
+    }
+}

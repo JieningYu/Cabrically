@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cabrically:andesite_machine"
+  },
+  "addition": {
+    "item": "create:brass_hand"
+  },
+  "result": {
+    "item": "create:deployer"
+  }
+}

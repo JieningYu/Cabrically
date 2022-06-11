@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:logs"
+        },
+        {
+            "tag": "c:plates/copper"
+        }
+    ],
+    "result": {
+        "item": "create:copper_casing",
+        "count": 2
+    }
+}

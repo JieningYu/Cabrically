@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cabrically:andesite_machine"
+  },
+  "result": "create:mechanical_piston",
+  "count": 1
+}

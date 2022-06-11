@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:andesite_machine"
+        },
+        {
+            "item": "create:whisk"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:mechanical_mixer"
+        }
+    ]
+}

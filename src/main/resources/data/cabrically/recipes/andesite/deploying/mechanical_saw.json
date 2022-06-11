@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:andesite_machine"
+        },
+        {
+            "tag": "c:plates/iron"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:mechanical_saw"
+        }
+    ]
+}

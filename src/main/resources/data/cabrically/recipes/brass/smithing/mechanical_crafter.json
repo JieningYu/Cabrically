@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cabrically:brass_machine"
+  },
+  "addition": {
+    "item": "minecraft:crafting_table"
+  },
+  "result": {
+    "item": "create:mechanical_crafter"
+  }
+}

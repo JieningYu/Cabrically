@@ -1,0 +1,72 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "minecraft:wooden_slabs"
+  },
+  "transitionalItem": {
+    "item": "minecraft:oak_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:oak_slab"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:oak_slab"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:oak_slab"
+        },
+        {
+          "tag": "c:nuggets/iron"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:oak_slab"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:oak_slab"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:oak_slab"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "cabrically:andesite_mechanism",
+      "count": 1,
+      "chance": 96.0
+    },
+    {
+      "item": "minecraft:oak_slab",
+      "chance": 2.5
+    },
+    {
+      "item": "minecraft:cogwheel",
+      "chance": 1.5
+    }
+  ],
+  "loops": 1
+}

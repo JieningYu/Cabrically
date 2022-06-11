@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:andesite_casing"
+        },
+        {
+            "item": "cabrically:andesite_mechanism"
+        },
+        {
+            "item": "cabrically:andesite_mechanism"
+        },
+        {
+            "item": "cabrically:andesite_mechanism"
+        }
+    ],
+    "result": {
+        "item": "cabrically:andesite_machine"
+    }
+}

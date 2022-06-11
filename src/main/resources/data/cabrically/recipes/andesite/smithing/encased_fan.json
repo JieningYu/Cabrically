@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cabrically:andesite_machine"
+  },
+  "addition": {
+    "item": "create:propeller"
+  },
+  "result": {
+    "item": "create:encased_fan"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cabrically:andesite_mechanism"
+  },
+  "transitionalItem": {
+    "item": "cabrically:andesite_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cabrically:andesite_mechanism"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "cabrically:andesite_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cabrically:andesite_mechanism"
+        },
+        {
+          "tag": "c:nuggets/brass"
+        }
+      ],
+      "results": [
+        {
+          "item": "cabrically:andesite_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "cabrically:andesite_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "cabrically:andesite_mechanism"
+        }
+      ],
+      "processingTime": 75
+    }
+  ],
+  "results": [
+    {
+      "item": "cabrically:brass_mechanism",
+      "count": 1,
+      "chance": 90.0
+    },
+    {
+      "item": "cabrically:andesite_mechanism",
+      "chance": 2.5
+    },
+    {
+      "item": "minecraft:brass_sheet",
+      "chance": 1.5
+    }
+  ],
+  "loops": 1
+}

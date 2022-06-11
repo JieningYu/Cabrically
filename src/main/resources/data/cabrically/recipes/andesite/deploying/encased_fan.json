@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:andesite_machine"
+        },
+        {
+            "item": "create:propeller"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:encased_fan"
+        }
+    ]
+}

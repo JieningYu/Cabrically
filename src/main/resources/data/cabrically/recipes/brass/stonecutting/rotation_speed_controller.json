@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cabrically:brass_machine"
+  },
+  "result": "create:rotation_speed_controller",
+  "count": 1
+}

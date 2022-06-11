@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:brass_machine"
+        },
+        {
+            "item": "minecraft:crafting_table"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:mechanical_crafter"
+        }
+    ]
+}

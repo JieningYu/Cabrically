@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cabrically:andesite_machine"
+  },
+  "addition": {
+    "tag": "c:ingots/iron"
+  },
+  "result": {
+    "item": "create:mechanical_drill"
+  }
+}

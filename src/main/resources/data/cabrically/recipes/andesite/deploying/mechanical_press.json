@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:andesite_machine"
+        },
+        {
+            "tag": "c:storage_blocks/iron"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:mechanical_press"
+        }
+    ]
+}

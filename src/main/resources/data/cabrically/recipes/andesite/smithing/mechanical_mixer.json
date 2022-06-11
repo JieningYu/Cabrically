@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cabrically:andesite_machine"
+  },
+  "addition": {
+    "item": "create:whisk"
+  },
+  "result": {
+    "item": "create:mechanical_mixer"
+  }
+}

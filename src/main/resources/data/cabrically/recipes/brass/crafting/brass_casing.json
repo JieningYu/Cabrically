@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:logs"
+        },
+        {
+            "tag": "c:plates/brass"
+        }
+    ],
+    "result": {
+        "item": "create:brass_casing",
+        "count": 2
+    }
+}

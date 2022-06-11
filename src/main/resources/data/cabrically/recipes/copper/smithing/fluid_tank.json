@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cabrically:copper_machine"
+  },
+  "addition": {
+    "tag": "c:barrels/wooden"
+  },
+  "result": {
+    "item": "create:fluid_tank"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cabrically:block/andesite_machine",
+      "uvlock": false
+    },
+    "facing=east": {
+      "model": "cabrically:block/andesite_machine",
+      "y": 90,
+      "uvlock": false
+    },
+    "facing=south": {
+      "model": "cabrically:block/andesite_machine",
+      "y": 180,
+      "uvlock": false
+    },
+    "facing=west": {
+      "model": "cabrically:block/andesite_machine",
+      "y": 270,
+      "uvlock": false
+    }
+  }
+}

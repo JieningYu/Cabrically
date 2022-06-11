@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:andesite_machine"
+        },
+        {
+            "tag": "minecraft:wooden_slabs"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:mechanical_bearing"
+        }
+    ]
+}

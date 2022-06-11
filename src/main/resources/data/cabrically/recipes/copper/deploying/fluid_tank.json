@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "cabrically:copper_machine"
+        },
+        {
+            "tag": "c:barrels/wooden"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:fluid_tank"
+        }
+    ]
+}
