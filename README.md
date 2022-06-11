@@ -1,7 +1,5 @@
-# CreatePlus
+# Cabrically
 
-A Minecraft Datapack / QuiltMod for 1.18.2.
+Easier machine automation inspired form [Create: Above and Beyond](https://www.curseforge.com/minecraft/modpacks/create-above-and-beyond).
 
-[Datapack HERE](https://github.com/JieningYu/CreatePlus)
-
-NOTE: This mod version of CreatePlus is still a extension of CreatePlus Datapack. So you still need to install the datapack.
+Requires [Create Fabric](https://github.com/Fabricators-of-Create/Create)
