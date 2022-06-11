@@ -9,12 +9,11 @@
     "Yjn024"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/JieningYu/Cabrically"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/createplus/icon.png",
+  "license": "MIT",
+  "icon": "assets/cabrically/icon.png",
 
   "environment": "*",
   "entrypoints": {
